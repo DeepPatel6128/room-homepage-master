@@ -1,6 +1,7 @@
 # Frontend Mentor - Room homepage
 
 ![Design preview for the Room homepage coding challenge](./design/desktop-preview.jpg)
+  ---Live Site URL - https://deeppatel6128.github.io/room-homepage-master/
 
 ## Welcome! 👋
 
